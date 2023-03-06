@@ -13,7 +13,7 @@ spec:
         name: javawebapp
     spec:
       containers:
-      - image: sanjay1515/java-web-app-docker
+      - image: sanjay1515/java-web-app-docker:43
         name: javawebapp
         ports:
         - name: javawebapp
